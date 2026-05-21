@@ -1,5 +1,4 @@
 # Hi, I'm Laasya 👋
-
 **Final-year CS student @ SRM University AP | AI & ML Enthusiast**  
 📍 Amaravati, Andhra Pradesh, India  
 📧 laasyanimmagadda21@gmail.com
@@ -7,14 +6,13 @@
 ---
 
 ### 🧠 About Me
-
 I build end-to-end machine learning systems — from raw data to deployed dashboards.  
 My work spans **NLP**, **anomaly detection**, **explainable AI**, and **computer vision**.
 
 - 🎓 B.Sc. Computer Science (2022–2026) | CGPA: 8.0
-- 📄 Published at **IEEE ICCCNT 2025, IIT Indore**
+- 📄 Published at **IEEE ICCCNT 2025, IIT Indore** & **AIHC 2025, NIT Calicut**
 - ☁️ AWS Cloud Foundations | Azure ML certified
-- 🔍 Actively seeking **ML Engineer / Data Scientist** roles
+- 🔍 Actively seeking **AI / Machine Learning Intern** roles
 
 ---
 
@@ -26,6 +24,8 @@ My work spans **NLP**, **anomaly detection**, **explainable AI**, and **computer
 | [⚕️ Obesity Risk Prediction](https://github.com/Laasya200421/obesity-risk-prediction) | Random Forest, XAI, DICE | 86.95% accuracy, counterfactual recommendations |
 | [🖼️ FIP Image Editor Pro](https://github.com/Laasya200421/fip-image-editor) | OpenCV, Tkinter, NumPy | 5+ CV filters, ROI tools, live RGB histogram |
 | [🩺 Fetal Health Classifier](https://github.com/Laasya200421/fetal-health-classifier) | Scikit-learn, Gradient Boosting | 2,126 samples, 3-class ROC/AUC evaluation |
+| [📡 ARIMA-LSTM LAN Latency Prediction](https://github.com/Laasya200421/arima-lstm-lan-latency) | ARIMA, LSTM, Python | IEEE published — anomaly detection & stability classification |
+| [🧠 Brain Tumor Detection & Classification](https://github.com/Laasya200421/brain-tumor-detection) | KNN, Random Forest, SVM, OpenCV | 89.93% accuracy (KNN + intensity features), 4-class MRI classification |
 
 ---
 
@@ -34,7 +34,6 @@ My work spans **NLP**, **anomaly detection**, **explainable AI**, and **computer
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
 
 **ML & AI**  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -48,18 +47,17 @@ My work spans **NLP**, **anomaly detection**, **explainable AI**, and **computer
 
 ---
 
-### 📄 Publication
+### 📄 Publications
 
-**A Hybrid ARIMA-LSTM Framework for LAN Latency Prediction**  
+**A Hybrid ARIMA-LSTM Framework for LAN Latency Prediction with Stability Classification and Anomaly Detection**  
 *16th IEEE ICCCNT 2025 — IIT Indore*  
 > Hybrid model combining ARIMA (linear) and LSTM (nonlinear) patterns for network latency prediction with anomaly detection and stability classification.
 
 ---
 
-### 📊 GitHub Stats
-
-![Laasya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Laasya200421&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laasya200421&layout=compact&theme=tokyonight&hide_border=true)
+**An Explainable Counterfactual ML Framework for Personalized Obesity Risk Prediction and Lifestyle Optimization**  
+*AIHC 2025 — NIT Calicut*  
+> XAI framework using Random Forest and DICE counterfactual explanations on the UCI Obesity Dataset, achieving 86.95% accuracy with personalized lifestyle recommendations for preventive healthcare analytics.
 
 ---
 
